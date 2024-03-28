@@ -1,0 +1,1 @@
+> Scaffold-DbContext "Server=LAP-TAMAR;Database= CoronaProject;Trusted_Connection=True; TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

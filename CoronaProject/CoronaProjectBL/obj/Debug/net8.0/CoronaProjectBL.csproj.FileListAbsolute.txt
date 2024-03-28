@@ -1,0 +1,17 @@
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectBL.deps.json
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectBL.dll
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectBL.pdb
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.AssemblyInfoInputs.cache
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.AssemblyInfo.cs
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.dll
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\refint\CoronaProjectBL.dll
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.pdb
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\ref\CoronaProjectBL.dll
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.csproj.AssemblyReference.cache
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectDL.dll
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectDTO.dll
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectDL.pdb
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\bin\Debug\net8.0\CoronaProjectDTO.pdb
+C:\Users\tamar.e\Hadasim\CoronaProject\CoronaProjectBL\obj\Debug\net8.0\CoronaProjectBL.csproj.CopyComplete
